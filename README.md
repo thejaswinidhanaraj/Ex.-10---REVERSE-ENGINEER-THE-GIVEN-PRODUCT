@@ -34,9 +34,9 @@
 
 ### Output:
 
-
-### Name:
-### Register Number:
+![image](https://github.com/thejaswinidhanaraj/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/148514511/2cc01208-fe52-4923-9f7c-e41dd7cc5119)
+### Name:THEJASWINI D
+### Register Number:212223110059
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
